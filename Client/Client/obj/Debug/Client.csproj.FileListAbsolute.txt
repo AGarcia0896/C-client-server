@@ -1,0 +1,9 @@
+C:\Users\charp\Documents\CSharp\Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\charp\Documents\CSharp\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\charp\Documents\CSharp\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\charp\Documents\CSharp\Client\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\charp\Documents\CSharp\Client\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\charp\Documents\CSharp\Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\charp\Documents\CSharp\Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\charp\Documents\CSharp\Client\Client\Client\obj\Debug\Client.exe
+C:\Users\charp\Documents\CSharp\Client\Client\Client\obj\Debug\Client.pdb
